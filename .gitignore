@@ -1,0 +1,8 @@
+# node modules
+/user-api/node_modules
+/movie-api/node_modules
+/front-end/node_modules
+
+# env files
+/movie-api/.env
+/user-api/.env
